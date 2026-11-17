@@ -1,0 +1,6 @@
+{
+  "name": "FreeForever SEO Toolkit",
+  "description": "100% Free Forever AI-Powered SEO Platform. Complete suite of website audit, technical SEO, on-page, keyword research, robots.txt, schema generator, broken link checker, and SERP analyzer with zero paywalls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

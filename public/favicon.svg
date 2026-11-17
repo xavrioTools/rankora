@@ -1,0 +1,27 @@
+<svg viewBox="4 4 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="rankora-primary" x1="4" y1="4" x2="44" y2="44" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#4f46e5" />
+      <stop offset="50%" stop-color="#6366f1" />
+      <stop offset="100%" stop-color="#7c3aed" />
+    </linearGradient>
+    <linearGradient id="rankora-growth" x1="12" y1="36" x2="36" y2="12" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#4338ca" />
+      <stop offset="100%" stop-color="#a855f7" />
+    </linearGradient>
+    <linearGradient id="rankora-aperture" x1="18" y1="18" x2="30" y2="30" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#ede9fe" />
+      <stop offset="100%" stop-color="#c4b5fd" />
+    </linearGradient>
+    <linearGradient id="rankora-highlight" x1="8" y1="8" x2="24" y2="24" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="40" height="40" rx="12" fill="url(#rankora-primary)" />
+  <path d="M5 16C5 9.92487 9.92487 5 16 5H32C38.0751 5 43 9.92487 43 16V22L5 34V16Z" fill="url(#rankora-highlight)" />
+  <path d="M13 33L13 23L24 16L24 26L13 33Z" fill="#312e81" fill-opacity="0.8" />
+  <path d="M24 16L35 23L35 33L24 26L24 16Z" fill="url(#rankora-growth)" />
+  <path d="M24 11L33 16.5L33 27.5L24 33L15 27.5L15 16.5L24 11Z" stroke="url(#rankora-aperture)" stroke-width="2.5" stroke-linejoin="round" />
+  <circle cx="24" cy="22" r="3.5" fill="#ffffff" />
+</svg>
